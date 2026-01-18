@@ -1,0 +1,12 @@
+unsloth
+bitsandbytes
+accelerate
+xformers
+peft
+trl
+langchain
+langchain-community
+langchain-google-genai
+sqlalchemy
+streamlit
+pyodbc
